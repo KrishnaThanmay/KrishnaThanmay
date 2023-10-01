@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrishnaThanmay
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently doing projects related to Data cleaning, Visualising, and Conducting Exploration Analysis using SQL, R, Python, tableau, excel, 
+- 🌱 I’m currently doing projects related to Data cleaning, Visualising, and Conducting Exploration Analysis using SQL, R, Python, Tableau, Excel 
 - 💞️ I’m looking to collaborate on data analysis work
 - 📫 LinkedIn ID: https://www.linkedin.com/in/krishna-thanmay-tirupati-881254225/
 - Also I am providing my Tableau public account link to notice the Visualizations I have done so far link: https://public.tableau.com/app/profile/krishna.thanmay.tirupati/
